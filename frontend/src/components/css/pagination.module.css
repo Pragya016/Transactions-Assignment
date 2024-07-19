@@ -1,0 +1,23 @@
+#prevBtn {
+    height: 30px;
+    width: 80px;
+    background: orange;
+    border: 1px solid grey;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+#text {
+    margin: 0 20px;
+}
+
+#nextBtn {
+    height: 30px;
+    width: 80px;
+    background: orange;
+    border: 1px solid grey;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+}

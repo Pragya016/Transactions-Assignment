@@ -1,0 +1,18 @@
+#searchContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#heading {
+    text-align: center;
+}
+
+#statisticsLink {
+    width: 90vw;
+    text-align: right;
+    margin: auto;
+    margin-bottom: 10px;
+    font-weight: 500;
+    cursor: pointer;
+}

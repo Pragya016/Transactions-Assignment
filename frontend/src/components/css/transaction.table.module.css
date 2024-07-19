@@ -1,0 +1,46 @@
+#tableContainer {
+    height: 70vh;
+    width: 90vw;
+    overflow: scroll;
+    margin: auto;
+    border: 1px solid grey;
+    border-radius: 5px;
+}
+
+#table, .table_heading, .table_cols {
+    border-collapse: collapse;
+}
+
+.table_heading, .table_cols {
+    padding: 10px;
+}
+
+.table_cols {
+    color: grey;
+}
+
+.table_heading {
+    background-color: orange;
+    font-weight: 700;
+}
+
+.id, .title, .table_heading {
+    color: black;
+    font-weight: 500;
+}
+
+#id, #sold{
+    width: 5%;
+}
+
+#price, #category, #image {
+    width: 10%;
+}
+
+#title {
+    width: 20%;
+}
+
+#desc {
+    width: 50%;
+}
